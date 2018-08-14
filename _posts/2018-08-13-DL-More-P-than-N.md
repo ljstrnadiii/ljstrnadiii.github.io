@@ -7,8 +7,10 @@ categories: jekyll update
 
 
 # Review the stuff from old website
-
+{% raw %}
 $$\int_{x}^{y} x^y dx$$
+{% endraw %}
+
 I just dont understand
 
 
