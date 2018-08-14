@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Do Data Scientists Use Bash"
+title:  "DietNetworks"
 date:   2018-08-12 17:42:13
 categories: jekyll update
 ---
