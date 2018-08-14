@@ -8,6 +8,7 @@ categories: jekyll update
 
 # Review the stuff from old website
 
+$$\int_{x}^{y} x^y dx$$
 
 
 
