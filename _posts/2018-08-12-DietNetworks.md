@@ -23,7 +23,7 @@ Summary:
 * The weights, $$w_i$$, are the free parameters and are learned through maximum likelihood estimation and back propagation. 
 * This structure can be used to represent: Linear Regression, Multivariate Regression, Binomial Regression, Softmax Regression
 
-![neuron](https://raw.githubusercontent.com/ljstrnadiii/ljstrnadiii.github.io/master/images/neuron.png) 
+![neuron](https://github.com/ljstrnadiii/genomicdl/blob/master/images/neuron.png)
   
 * Nodes following the input layer are computed with an activation function 
  
