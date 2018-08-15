@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DietNetworks"
+title:  "Diet Networks: Neural Networks and the p >> n problem "
 date:   2018-08-12 17:42:13
 categories: jekyll update
 ---
