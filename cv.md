@@ -6,11 +6,16 @@ permalink: /cv/
 
 {% include image.html url="/images/reading.jpg" caption="pc: Brendan Davis" width=700 align="right" %}
 
-I have been familiarizing myself with Machine Learning Algorithms since I have been in undergrad circa 2012. I earned my undergrgad in Mathematics with a minor in Statistics. I decided to pursue more Statistics and earned my M.S. in Statistics from the University of Colorado at Denver.
+I have been familiarizing myself with Machine Learning Algorithms since I have been in undergrad. I earned my Bachelor's in Mathematics with a minor in Statistics. I wanted to strengthen my education in Statistics, so I decided to get my Master's in Statistics from the University of Colorado at Denver and graduated in 2017.
 
-As a practicing Data Scientist, I work with PostgreSQL, have scraped the web for data, migrated terabytes of inconsistent csvs into Spark, built Docker containers for Deep Learning training and inference on AWS, leveraged transfer learning, built convolutional neural networks for classification, replicated results of a deep learning model to predict ancestry with genomic data, regularly present data summaries and visualization to the EPA, visualize clustering of high dimensional, carefully crafted feature spaces with t-SNE, Et cetera ...
+As a practicing Data Scientist, I work with PostgreSQL, migrate terabytes of messy csvs into Spark, build Docker containers for Deep Learning to train and perform inference on AWS/GCP, build convolutional neural networks for classification, build LSTM models to predict time series data, have replicated results of a deep learning paper to predict ancestry with genomic data, perform Bayesian parameter estimation, present data summaries and data visualization to the EPA on a regular basis, visualize clustering of high dimensional data with t-SNE, carefully craft feature spaces, Et cetera ... 
 
-Context matters, but at the core of most things are vectors! I have used third party packages to handle genomic data in high dimension, regularly work with time series data from fleets of vehicles, worked with image data, inventory data, electric vehicle charging data, captured schemas from millions of csvs to upload to Spark in a consistent fashion, Et cetera .... I enjoy working in different contexts, but am exceptionally motivated to take part adding efficiency. 
+I typically work with Python packages such as __tensorflow__, __pandas__, __sklearn__, __psycopg2__, __pyspark.sql__, __seaborn__, among others.
+
+Context matters, but at the core of most things are vector spaces! At this point in my life, I am excited to work in any context that allows me to exercise machine learning and big data methods. I have used third party packages to handle high dimensional genomic data, regularly work with time series data from fleets of vehicles, image data, inventory data, electric vehicle charging data, among others.
+
+I have recently taken ownership of NREL's machine learning efforts on [Fleet DNA](https://www.nrel.gov/transportation/fleettest-fleet-dna.html) and have big ideas. 
+
 
 Check out my Resume below and feel free to reach out if you would like to work together.
 
