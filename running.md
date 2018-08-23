@@ -10,7 +10,7 @@ permalink: /running/
 
 {% include image.html url="/images/running_goof.jpg" width=400 align="right" caption="Kokopeli Trail" %}
 
-Trail running is the center of all my weekend plans. It brings me peace I can not find anywhere else. Something in the way perseverence always ends in arrival. It has taught me how to learn to be patient when the struggle is on. Running gives me a place to continue widdling my patience and is often blessed with the presence of such impressive mountains. What balance! There is nothing like running through, around or in a massive mountain range here in Colorado.
+Trail running is the center of all my weekend plans. It brings me peace I can not find anywhere else. Something in the way perseverence always ends in arrival. It has taught me how to learn to be patient when the struggle is on. Running gives me an opportunity to shape my patience and often brings such impressive mountains. What balance! There is nothing like running through, around or in a massive mountain range here in Colorado.
 
 {% include image.html url="/images/HL100.jpg" width=800 align="top" caption="High Lonesome 100 pc: Kirk Warner"  %}
 
