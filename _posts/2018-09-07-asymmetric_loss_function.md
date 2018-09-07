@@ -44,7 +44,7 @@ plt.show()
 ```
 
 
-![png](/images/2018-09-07-asymmetric_loss_function_4_0.png)
+![png](https://raw.githubusercontent.com/ljstrnadiii/ljstrnadiii.github.io/master/images/2018-09-07-asymmetric_loss_function_4_0.png)
 
 
 ## The Loss Function
@@ -83,7 +83,7 @@ plt.show()
 ```
 
 
-![png](/images/2018-09-07-asymmetric_loss_function_8_0.png)
+![png](https://github.com/ljstrnadiii/ljstrnadiii.github.io/blob/master/images/2018-09-07-asymmetric_loss_function_8_0.png?raw=true)
 
 
 So, we see that the new loss function in red will penalize errors that are less than zero greater than the errors greater than zero.
@@ -175,7 +175,7 @@ plt.show()
 ```
 
 
-![png](/images/2018-09-07-asymmetric_loss_function_13_0.png)
+![png](https://github.com/ljstrnadiii/ljstrnadiii.github.io/blob/master/images/2018-09-07-asymmetric_loss_function_13_0.png?raw=true)
 
 
 And voila! We see that the model slightly overpredicts the response. 
