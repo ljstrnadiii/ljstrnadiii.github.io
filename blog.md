@@ -5,6 +5,8 @@ permalink: /blog/
 ---
 
 
+(I have sort of neglected this a bit, but hope to egt back to it soon).
+
 This is a place for me to stash some of the tricks and tips I use in my career. I might have a couple lines of pandas code to a more thorough sklearn or TensorFlow example. It might even be a mathematical explaination of an algorithm. Find the notebooks at my github! This is a work in progress and I am just starting this on September 12, 2018.
 
 <ul class="listing">
