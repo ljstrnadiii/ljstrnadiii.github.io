@@ -14,11 +14,10 @@ I __currently__ work for [Pex](www.pex.com) in Boulder, Colorado. As a machine l
 
 I have implemented papers such as *ArcFace*, *Outrageously Large Neural Networks*, *Learning Deep Features for Discriminative Localization*, among others. I also have experience supporting other data scientists as an owner of a repository. 
 
-This is my second startup experience. Previously, I worked at TruU Inc and NREL as a data scientist. My role at NREL was to characterize fleets of vehicles. The data was a few Tbs of time series data from the vehicle's onboard sensors. Characterizing these fleets of vehicles included a lot of feature vector design, cluster analysis and visualization, not to mention a lot of data management. I often presented my results to other NREL employees and with our partners at the EPA. Additionally, I spend time with the engineers on our team to determine the best way to extract, transform and load our data.
 
 # Projects
 
-Here is a list of projects I enjoyed working on.
+Some projects I have enjoyed:
 
 - Nonlinear Parameter Estimation: Vehicle Mass and The Road Load Equation
 	
