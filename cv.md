@@ -32,8 +32,8 @@ Here is a list of projects I enjoyed working on.
 
 
 # Resume
-[download-pdf](https://www.dropbox.com/s/chovlskzdjtpc3q/StrnadCV.pdf).
+[download-pdf](https://www.dropbox.com/s/y84m2n7p0j7nam8/Strnad_CV.pdf?dl=0).
 
-{% include embedpdf.html code="chovlskzdjtpc3q/StrnadCV.pdf" width=100 height=1000 %}
+{% include embedpdf.html code="y84m2n7p0j7nam8/Strnad_CV" width=100 height=1000 %}
 
 
