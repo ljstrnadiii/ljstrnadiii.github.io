@@ -10,7 +10,7 @@ I earned my Bachelor's in Mathematics with a minor in Statistics and then my Mas
 
 A data scientist, as they say, is one part computer scientist, one part mathematician, and one part statistician. My experience over the past few years includes topics such as approximate nearest neighbor search; deep learning for embedding, prediction, classification; bayesian methods for parameter estimation; data pipelining for training, etc. 
 
-I __currently__ work for [Pex](www.pex.com) in Boulder, Colorado. As a machine learning scientist, my role here is diverse. We process an insane amount of data. The machine learning team often has very special constraints to meet in order to take models into production. 
+I __currently__ work for [Pex](https://www.pex.com) in Boulder, Colorado. As a machine learning scientist, my role here is diverse. We process an insane amount of data. The machine learning team often has very special constraints to meet in order to take models into production. 
 
 I have implemented papers such as *ArcFace*, *Outrageously Large Neural Networks*, *Learning Deep Features for Discriminative Localization*, among others. I also have experience supporting other data scientists as an owner of a repository used for data pipelining, giving tutorials on using docker for training and inference, and really enjoy bringing intuition to the world of machine learning. 
 
