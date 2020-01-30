@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Scientist
+title: Machine Learning Engineer
 permalink: /cv/
 ---
 
@@ -8,24 +8,24 @@ permalink: /cv/
 
 I earned my Bachelor's in Mathematics with a minor in Statistics and then my Master's in Statistics from the University of Colorado at Denver.
 
-A data scientist, as they say, is one part computer scientist, one part mathematician, and one part statistician. My experience over the past few years includes topics such as approximate nearest neighbor search; deep learning for embedding, prediction, classification; bayesian methods for parameter estimation; data pipelining for training, etc. 
+A data scientist, as they say, is one part computer scientist, one part mathematician, and one part statistician. That has been the primary focus of my career over the past few years. My experience includes topics such as approximate nearest neighbor search; deep learning for embedding, prediction, classification; bayesian methods for parameter estimation; data pipelining for training, etc. I also have found strengths in bringing cohesion to machine learning teams by emphasizing the importance of pull requests and code reviews, converging on coding standards, and respecting good communication.   
 
-I __currently__ work for [Pex](https://www.pex.com) in Boulder, Colorado. As a machine learning scientist, my role here is diverse. We process an insane amount of data. The machine learning team often has very special constraints to meet in order to take models into production. 
+I __currently__ work for [Pex](https://www.pex.com) in Boulder, Colorado. As a machine learning scientist, my role here is diverse. We process a large amount of data. The machine learning team often has very special constraints to meet in order to take models into production. So, my efforts have been stretched out from ml architecture for serving, pipelining, repo management, to implementing papers and training models. 
 
-I have implemented papers such as *ArcFace*, *Outrageously Large Neural Networks*, *Learning Deep Features for Discriminative Localization*, among others. I also have experience supporting other data scientists as an owner of a repository used for data pipelining, giving tutorials on using docker for training and inference, and really enjoy bringing intuition to the world of machine learning. 
+I have implemented papers such as *ArcFace*, *Outrageously Large Neural Networks*, *Learning Deep Features for Discriminative Localization*, among others. I also have experience giving tutorials on using docker for training and inference, and really enjoy bringing intuition to the world of machine learning. I truly enjoy teaching what I can and take it seriously. 
 
 
 # Projects
 
-Some projects I have enjoyed:
+Projects I have worked on include:
 
 - Nonlinear Parameter Estimation: Vehicle Mass and The Road Load Equation
 	
-- Vehicle Behaviour Clustering Analysis and Visualization
+- Vehicle Behaviour Cluster Analysis and Visualization
 
-- Diet Networks: Predicting Ancestry with Genomic Data and Deep Learning
+- Diet Networks: Predicting Ancestry with Genomic Data and Deep Learning when p >> n
 
-- Identity Prediction Using Accelerometer Data and Deep Learning
+- Identity Prediction Using Accelerometer Data and Deep Learning with ResNets and Mixture of Experts
 
 - Indexing Images with Approximate Nearest Neighbor Methods (Faiss) and Deep Learning Embeddings
 
