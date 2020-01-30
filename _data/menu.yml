@@ -4,6 +4,6 @@
 - title: "Movement"
   href: "/running/"
 
-- title: "Data Science Blog"
-  href: "/blog/"
+  #- title: "Data Science Blog"
+  #href: "/blog/"
 
