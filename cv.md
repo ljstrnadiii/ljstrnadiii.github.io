@@ -33,6 +33,6 @@ Projects I have worked on include:
 # Resume
 [download-pdf](https://www.dropbox.com/s/o3csjgwkuq5jwnp/Strnad_CV.pdf?dl=0).
 
-{% include embedpdf.html code="y84m2n7p0j7nam8/Strnad_CV" width=100 height=1000 %}
+{% include embedpdf.html code="o3csjgwkuq5jwnp/Strnad_CV" width=100 height=1000 %}
 
 
