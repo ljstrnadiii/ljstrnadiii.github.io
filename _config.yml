@@ -13,7 +13,7 @@ highlighter: rouge
 
 # Other options
 permalink: blog/:year/:month/:title
-job.title: "Data Scientist"
+job.title: "Machine Learning Engineer"
 excerpt_separator: "<!--more-->"
 
 # SEO stuff
