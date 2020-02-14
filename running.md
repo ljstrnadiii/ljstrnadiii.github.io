@@ -10,14 +10,14 @@ permalink: /running/
 
 {% include image.html url="/images/running_goof.jpg" width=400 align="right" caption="Kokopeli Trail" %}
 
-Trail running is the center of all my weekend plans. It brings me peace I can not find anywhere else. Something in the way perseverence always ends in arrival. It has taught me how to learn to be patient when the struggle is on..
+Trail running is at the center of all my weekend plans. It continues to refresh my appreciation for the greatest, most tangible thing we have--the wilderness. Endurance activities have taught me to be patient, which has permeated all other areas of my life.
 
 {% include image.html url="/images/HL100.jpg" width=800 align="top" caption="High Lonesome 100 pc: Kirk Warner"  %}
 
 
-I occasionally race. I have participated in the Rut 50K, Quad Rock 25M (2), SciaccheTrail 50K, Chuckanut 50K, Moab Red Hot 55k, Devil on the Divide 25k, San Juan Solstice 50M (2), TNF 50M, Bear 100, High Lonesome 100.
+I occasionally race. Check out my UltraSignup [here](https://ultrasignup.com/results_participant.aspx?fname=Leonard&lname=Strnad).
 
-I am primarily focused on just having a good time in my back yard. Colorado has so much to offer and I could not be more stoked to live here.  
+Colorado has so much to offer and I could not be more stoked to live here.  
 
 
 
